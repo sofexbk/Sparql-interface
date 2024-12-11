@@ -1,0 +1,1 @@
+soit regex soit pos , and /w , /W , /d
